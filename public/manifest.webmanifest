@@ -1,0 +1,15 @@
+{
+  "name": "K95 TaskForce",
+  "short_name": "TaskForce",
+  "description": "Daily Accountability System for K95 Foods",
+  "start_url": "/taskforce/",
+  "scope": "/taskforce/",
+  "display": "standalone",
+  "background_color": "#11111b",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/taskforce/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/taskforce/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
